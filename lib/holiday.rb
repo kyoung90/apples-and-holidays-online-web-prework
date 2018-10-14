@@ -72,7 +72,7 @@ def all_supplies_in_holidays(holiday_hash)
         ele.capitalize!
       end
       str = arr.join(" ")
-      puts "  #{str}: #{value.join(", "}"
+      puts "  #{str}: #{value.join(', ')}"
     end 
   end 
 
