@@ -71,7 +71,7 @@ def all_holidays_with_bbq(holiday_hash)
   arr = []
   holiday_hash.each do |key, key2|
     key2.each do |key, value|
-      if   
+      if value.  
     end 
   end 
 end
